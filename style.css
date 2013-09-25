@@ -11,16 +11,17 @@ selector {
 	attribute: font;
 }
 
-p {font-family: "calluna-sans", helvetica; 
+ {font-family: "calluna-sans", helvetica; 
 }
 
-p {font-size: 1.5em;
+ {font-size: 1.5em;
 
 }
 
-p {text-align: center;
+ {text-align: center;
 
 }
-p {text-indent:50px;}
+ {text-indent:2.5em;
+ }
 
 
