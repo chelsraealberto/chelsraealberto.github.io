@@ -7,15 +7,19 @@ selector {
 }
 
 {
-  font-family: "calluna-sans", helvetica; 
+selector {
+	attribute: font;
+}
 
-  }
+{font-family: "calluna-sans", helvetica; 
+}
 
 {font-size: 1.5em;
 
 }
 
 {text-align: center;
+
 }
 
 
