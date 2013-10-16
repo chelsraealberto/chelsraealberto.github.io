@@ -19,6 +19,59 @@ body {
 	text-align: center;
 	text-indent:2.5em;
 	line-height:2em;
+	padding:10em;
 }
+ span.blue {
+ 	display:block;
+ }
+img{
+	width: 400px;
+	display: block;
+	position:static;
+	margin:30px auto;
+}
+div.babyanimal img.kitten{
+	width: 200px;
+	position: absolute;
+	top: 0;
+}
+div.thumnail {
+	background: darkred;
+	border:1px solid#000;
+	width:100px;
+	height:100px;
+	position:relative;
 
+}
+div.thumnail a{
+	font-size: 1.5em;
+	font-family: helvetica; 
+	text-decoration: none;
+	text-align:center;
+	color: gray;
+	position: absolute;
+	top:50px;
+	left:50px;
+	right:50px;
+	z-index:50px;
+	background:gray;
+	padding:10px 10px;
+	opacity: 0.5;
+
+}
+div.thumnail a:hover {
+	opacity: 1;
+
+
+}
+.nav a {
+	position: fixed;
+	top:0;
+	right:0;
+	left:0;
+	height: 30px;
+	background: #000;
+	z-index: 1000;
+	text-align: center;
+}
 
