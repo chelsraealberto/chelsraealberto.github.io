@@ -24,14 +24,15 @@ body {
  span.blue {
  	display:block;
  }
-img{
+img.linkimg{
 	width: 400px;
 	display: block;
 	position:static;
 	margin:30px auto;
 }
+
 div.babyanimal img.kitten{
-	width: 200px;
+	width: 100px;
 	position: absolute;
 	top: 0;
 }
