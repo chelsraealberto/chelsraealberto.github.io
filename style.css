@@ -11,8 +11,10 @@ selector-2 {
 }
 
 */
-
-body {
+h1{
+	font-size: 3.5em;
+}
+body{ 
 	background: lightgray;
 	font-family: helvetica, sans-serif;
 	font-size: 1.5em;
@@ -20,6 +22,24 @@ body {
 	text-indent:2.5em;
 	line-height:2em;
 	padding:10em;
+}
+
+div.tittleofsite a{
+	font-size: 3.5em;
+
+}	
+
+div.myessay a{
+	background: lightgray;
+	font-family: helvetica, sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+	text-indent:2.5em;
+	line-height:2em;
+	padding:10em;
+
+}
+
 }
  span.blue {
  	display:block;
@@ -75,4 +95,8 @@ div.thumnail a:hover {
 	z-index: 1000;
 	text-align: center;
 }
+
+
+}
+
 
