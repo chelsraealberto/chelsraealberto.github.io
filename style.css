@@ -26,8 +26,8 @@ body {
 }
 
 div.tittleofsite {
-	font-size: 2em;
-	line-height: 5em;
+	font-size: 3em;
+	line-height: 2em;
 }	
 
 div.myessay {
@@ -35,9 +35,9 @@ div.myessay {
 	font-family: helvetica, sans-serif;
 	font-size: 1.5em;
 	text-align: center;
-	text-indent:2.5em;
-	line-height:2em;
-	padding:10em;
+	text-indent:3.5em;
+	line-height:3em;
+	padding:5em;
 
 }
 
@@ -47,21 +47,21 @@ span.blue {
 }
 
 img.linkimg{
-	width: 400px;
+	width: 50px;
 	display: block;
 	position:static;
-	margin:30px auto;
+	margin:50px auto;
 }
 
 div.babyanimal img.kitten{
-	width: 100px;
+	width: 300px;
 	position: absolute;
 	top: 0;
 }
 
 div.thumnail {
 	background: darkred;
-	border:1px solid#000;
+	border:300px solid#000;
 	width:100px;
 	height:100px;
 	position:relative;
@@ -75,12 +75,12 @@ div.thumnail a {
 	text-align:center;
 	color: gray;
 	position: absolute;
-	top:50px;
-	left:50px;
-	right:50px;
-	z-index:50px;
+	top:100px;
+	left:100px;
+	right:100px;
+	z-index:100px;
 	background:gray;
-	padding:10px 10px;
+	padding:500px 500px;
 	opacity: 0.5;
 }
 
@@ -97,4 +97,8 @@ div.thumnail a:hover {
 	background: #000;
 	z-index: 1000;
 	text-align: center;
+}
+
+div.nemesis h1{
+
 }
