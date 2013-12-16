@@ -53,10 +53,10 @@ img.linkimg{
 	margin:50px auto;
 }
 
-div.babyanimal img.kitten{
+/*div.babyanimal img.kitten{
 	width: 300px;
 	position: absolute;
-	top: 0;
+	top: 0; 
 }
 
 div.thumnail {
@@ -64,7 +64,7 @@ div.thumnail {
 	border:300px solid#000;
 	width:100px;
 	height:100px;
-	position:relative;
+	position:relative; */
 
 }
 
@@ -84,8 +84,8 @@ div.thumnail a {
 	opacity: 0.5;
 }
 
-div.thumnail a:hover {
-	opacity: 1;
+/*div.thumnail a:hover {
+	opacity: 1; */
 }
 
 .nav a {
